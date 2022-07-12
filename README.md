@@ -4,8 +4,6 @@
 
 Arrow Keys for Direction:
 
-https://github.com/srimani-programmer/Ping-Pong-Game/raw/master/Start_Point.png
-
 ## For Player A:
 To move paddle up press 'w'<br />
 To move paddle down press 's'
